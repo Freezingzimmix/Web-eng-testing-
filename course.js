@@ -1,3 +1,3 @@
 export const course = {
-  title: "Fullstack",
+  title: "Fullstack Development",
 };
